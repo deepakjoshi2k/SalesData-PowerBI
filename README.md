@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/Build%20with-Power Bi-important?style=for-the-badge">
+<img src="https://img.shields.io/badge/Domain-Data Analysis & Business Intelligence-purple?style=for-the-badge">
+
 # Power BI Sales Data Analysis Project
 Welcome to my Power BI project on sales data analysis! This project consists of a landing page and two additional pages: Product Performance and Customer Insights.
 
