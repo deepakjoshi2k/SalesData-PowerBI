@@ -4,6 +4,8 @@
 # Power BI Sales Data Analysis Project
 Welcome to my Power BI project on sales data analysis! This project consists of a landing page and two additional pages: Product Performance and Customer Insights.
 
+<img src= "https://github.com/deepakjoshi2k/SalesData-PowerBI/blob/main/Landing%20Page.png?raw=true" width="500" height="200" />
+
 ### Landing Page
 The landing page serves as a hub for the dashboard and includes a navigation menu that seamlessly directs the user to the other pages.
 
